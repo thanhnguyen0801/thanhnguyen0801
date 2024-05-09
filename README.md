@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## app:
+## App:
 <p align="center">
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -36,4 +36,3 @@
 # Certificates:
 
 - [Certificate of participation in the competition "Animal Robot Contest 2022 - Season 5](https://drive.google.com/file/d/1RNLUJ4eIy7tEe9kGrnAuRw1QMKQat1qU/view?usp=drive_link)
-- [Certificate soft skills course ](https://drive.google.com/drive/folders/1606Uju8fAROVXZggvGG_Yxap-kdQHK6a)
