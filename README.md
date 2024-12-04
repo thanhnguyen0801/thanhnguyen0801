@@ -35,6 +35,6 @@
 
 # Certificates:
 
-#- [Certificate of participation in the competition "Animal Robot Contest 2022 - Season 5"](https://drive.google.com/file/d/1aBDdLKTcQXIQYLOCsp9PytucYRCNOJLb/view?usp=sharing)
+<!--#- [Certificate of participation in the competition "Animal Robot Contest 2022 - Season 5"](https://drive.google.com/file/d/1aBDdLKTcQXIQYLOCsp9PytucYRCNOJLb/view?usp=sharing)
 #- [Certificate of participation in the competition "FEEE ROBOTICS - ME CUNG VO TAN"](https://drive.google.com/file/d/10WAb0dApxPux6M9eJcOx-GQwUCZu0VcN/view?usp=sharing)
-#- [Certificate of participation in the competition "Tu dong hoa voi PLC SIMEN"](https://drive.google.com/file/d/1LaFRO25-gxZ2Wjzv6sX13hse5tkF30U3/view?usp=drive_link)
+#- [Certificate of participation in the competition "Tu dong hoa voi PLC SIMEN"](https://drive.google.com/file/d/1LaFRO25-gxZ2Wjzv6sX13hse5tkF30U3/view?usp=drive_link)-->
