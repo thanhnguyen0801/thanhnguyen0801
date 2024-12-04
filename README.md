@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Nguyen Chi Thanh</h2>
 <p align="center">
-  <h3 align="center">A passionate developer embedded from Vietnam 🇻🇳 </h3>
+  <h3 align="center">I from Vietnam 🇻🇳 </h3>
 </p>
 
 <br />
